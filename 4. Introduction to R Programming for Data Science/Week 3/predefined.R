@@ -1,0 +1,6 @@
+ratings <- c(8.7, 6.9, 8.5)
+mean(ratings)
+sort(ratings)
+sort(ratings, decreasing = TRUE)
+max(ratings)
+min(ratings)
